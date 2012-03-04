@@ -1,0 +1,6 @@
+name: Breathe
+description: Breathe underwater, like a fish! :D
+version: 1.1
+author: SwearWord
+authors: [musicin3d]
+main: org.blockface.breathe.Breathe
